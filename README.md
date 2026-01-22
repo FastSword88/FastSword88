@@ -1,30 +1,15 @@
 ![Image very amazing of Miku and Teto](About.png)_
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FastSword Profile</title>
-    <style>
-        .fastsword {
-            color: blue;
-            font-weight: bold;
-        }
-        .sword-emoji {
-            font-size: 1.2em;
-        }
-        .container {
-            font-family: Arial, sans-serif;
-            font-size: 18px;
-            margin: 20px;
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <span class="sword-emoji">⚔️</span>
-        I am <span class="fastsword">FastSword</span>, I like data :D
-        <span class="sword-emoji">⚔️</span>
-    </div>
-</body>
-</html>
+<p align="center">
+  <span style="font-size: 24px;">⚔️</span>
+  <strong style="font-size: 28px; color: blue;">FastSword</strong>
+  <span style="font-size: 24px;">⚔️</span>
+  <br>
+  <em style="font-size: 20px;">Data enthusiast & developer</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
